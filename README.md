@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/mv.gif" alt="banner"></p>
-
 # 💫 About Me:
 👯 I’m looking to collaborate on blockchain project (SOL / ETH)<br>🌱 I’m currently learning Python / Rust / Assembly / Solidity<br>⚡ Fun fact : I'm stuck on blue slopes<br>💡 Last interest : Embedded System
 
