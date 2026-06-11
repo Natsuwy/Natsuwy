@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/error-gif-text-Favim.com-7135001.gif" alt="banner"></p>
+<p align="center"><img src="assets/mv.gif" alt="banner"></p>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on blockchain project (SOL / ETH)<br>🌱 I’m currently learning Python / Rust / Assembly / Solidity<br>⚡ Fun fact : I'm stuck on blue slopes<br>💡 Last interest : Embedded System
