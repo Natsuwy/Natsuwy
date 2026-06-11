@@ -1,3 +1,6 @@
+
+
+
 # 💫 About Me:
 👯 I’m looking to collaborate on blockchain project (SOL / ETH)<br>🌱 I’m currently learning Python / Rust / Assembly / Solidity<br>⚡ Fun fact : I'm stuck on blue slopes<br>💡 Last interest : Embedded System
 
@@ -9,6 +12,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Natsuwy&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Natsuwy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
